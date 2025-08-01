@@ -44,12 +44,15 @@ You should only need a software of this kind if you want to access one of your d
 ## Technology - Internet
 ### Web Browsing
 #### Browsers
+::: danger
+Chromium based browsers, when paired with uBlock Origin, usually have poor adblocking due to the fact that ads cannot be blocked **before** the page loads. If you need serious adblocking, tend to misclick on pages a lot, or just generally hate ads, consider a Firefox/Gecko based option.
+:::
 
 - **[🏆 Firefox](https://www.firefox.com)** - Gecko / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
 - **[⭐ Floorp](https://floorp.app)** - Gecko / Mozilla Sync support / Use Floorp 11 for Themes / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
-- **[✨ Supermium](https://github.com/win32ss/supermium)** - Chromium / Poor adblocking / Supports Windows 8.1 and earlier / Manifest V2 support
-- **[Brave](https://brave.com/)** - Chromium / Mid adblocking / Ok built-in adblock / Crypto and AI elements / **[Controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/)**
-- **[Vivaldi](https://vivaldi.com/)** - Chromium / Poor adblocking / Poor built-in adblock
+- **[✨ Supermium](https://github.com/win32ss/supermium)** - Chromium / Supports Windows 8.1 and earlier / Manifest V2 support
+- **[Brave](https://brave.com/)** - Chromium / Crypto and AI elements / **[Controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/)**
+- **[Vivaldi](https://vivaldi.com/)** - Chromium / Poor built-in adblock
 - **[Zen Browser](https://zen-browser.app/)** - Gecko / **[Code Snippets](https://zen-browser.app/mods/)** / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
 
 ***
