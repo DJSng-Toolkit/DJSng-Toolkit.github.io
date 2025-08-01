@@ -6,7 +6,7 @@ description: DJSng's personal list of resources, mods and guides.
 
 hero:
   name: "DJSng's Toolkit"
-  tagline: "Free resources, by a casual."
+  tagline: "Technology focused resources, by a casual, for casuals."
   image:
     src: /hero.png
     alt: DJSng's Toolkit Logo
