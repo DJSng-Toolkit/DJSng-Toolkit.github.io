@@ -58,6 +58,6 @@ interface Outline {
    *
    * @default 1
    */
-  level?: 'deep'
+  level?: [2, 6]
   label?: 'Table of Contents'
 }
