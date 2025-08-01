@@ -12,7 +12,7 @@ hero:
     alt: DJSng's Toolkit Logo
   actions:
     - theme: brand  
-      text: Start browsing
+      text: Browse by game
       link: /home
     - theme: alt  
       text: General resources
