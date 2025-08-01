@@ -11,6 +11,6 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 
 | Page |
 | --- |
-| [✅ Optimizations](mods/optimization.md) |
-| [✅ Bugfixes](mods/fixes.md) | 
-| [✅ Enhancements](mods/enhancements.md) | 
+| [✅ Optimizations](mods/optimization.md) | Mods that make the game run better |
+| [✅ Bugfixes](mods/fixes.md) | Mods that fix bugs |
+| [✅ Enhancements](mods/enhancements.md) | General enhancements |
