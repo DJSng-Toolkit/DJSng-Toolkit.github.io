@@ -112,7 +112,7 @@ All themes here require manual install that may be confusing to some users.
 
 ***
 
-# Gaming - General
+## Gaming - General
 General gaming resources and guides that can apply to a variety of games.
 
 ### Resources & Guides
