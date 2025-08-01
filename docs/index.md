@@ -18,8 +18,6 @@ hero:
       text: General resources
       link: /sect/library
 
--> Take a look at some stuff we have to offer! <-
-
 features:
   - title: Minecraft
     link: /sect/mc/index
