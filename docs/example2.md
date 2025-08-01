@@ -220,7 +220,7 @@ Also check out [Tookit](https://github.com/DJSng-Toolkit/Toolkit/blob/main/mc/RE
 | --- | --- | --- |
 | [⭐ MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide) | Radk6 | A more minimalist take on TheUsefulLists. Where Toolkit is more "maximalist" and might be a bit much, this guide is nice and minimal. |
 | [⭐ UsefulMods](https://github.com/TheUsefulLists/UsefulMods) | TheUsefulLists | The original inspiration for this list! They focus on actually clumping together mods rather than being selective about mods like I'm aiming for, so they might also have a few extra mods I miss. |
-| [Legacy Fabric Mod Compatibility List](legacyfabric.net/mods.html)  | Legacy Fabric | General list for mod compatibility for Legacy Fabric supported versions. |
+| [Legacy Fabric Mod Compatibility List](https://legacyfabric.net/mods.html)  | Legacy Fabric | General list for mod compatibility for Legacy Fabric supported versions. |
 | [List of "Essential" 1.7.10 Mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c) | Makamys | Good list that goes more in depth about 1.7 options, for retro modders. |
 
 ## Software
