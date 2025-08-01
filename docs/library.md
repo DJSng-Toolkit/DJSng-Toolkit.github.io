@@ -149,7 +149,7 @@ A personal highlight of games I recommend.
 Content for Minecraft.
 
 ### Launchers
-::: note
+::: info
 This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
 :::
 
