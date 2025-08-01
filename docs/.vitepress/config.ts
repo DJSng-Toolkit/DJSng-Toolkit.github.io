@@ -59,6 +59,5 @@ interface Outline {
    * @default 1
    */
   level?: 'deep'
-
-  label?: Table of Contents
+  label?: 'Table of Contents'
 }
