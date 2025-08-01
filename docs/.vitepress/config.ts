@@ -6,6 +6,10 @@ export default defineConfig({
   description: "A bundle of resources curated by DJSng.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+	logo: '/hero.png',
+	head: [
+	['link', { rel: "shortcut icon", href: "/hero.png"}],
+	],
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Source', link: 'https://github.com/DJSng-Toolkit/DJSng-Toolkit.github.io' }
