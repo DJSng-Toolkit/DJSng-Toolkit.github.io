@@ -13,22 +13,22 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: 'https://djsng.bearblog.dev/' },
-	  { text: 'Website', link: 'https://djsng.neocities.org/' }
+	    { text: 'Website', link: 'https://djsng.neocities.org/' }
     ],
 
     sidebar: [
 	{
         text: 'Gaming guides',
         items: [
-          { text: 'Minecraft', link: '/sect/minecraft/index' },
-		  { text: 'WEBFISHING', link: '/sect/webfish/index' },
-          { text: 'ROBLOX', link: '/sect/rblx/index' }
+          { text: 'Minecraft', link: '/games/mc/index' },
+		  { text: 'WEBFISHING', link: '/games/webfish' },
+          { text: 'ROBLOX', link: '/games/rblx' }
         ]
       },
       {
         text: 'Resources',
         items: [
-          { text: 'Jericho Library', link: '/sect/library.md' }
+          { text: 'Jericho Library', link: '/library.md' }
         ]
       }
     ],

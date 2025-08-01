@@ -16,21 +16,21 @@ hero:
       link: /home
     - theme: alt  
       text: General resources
-      link: /sect/library
+      link: /library
 
 features:
   - title: Minecraft
-    link: /sect/mc/index
+    link: /games/mc/index
     details: Resources, websites and optimizations for a popular block game.
     icon:
        src: 'https://files.catbox.moe/etxyzt.png'
   - title: ROBLOX
-    link: /sect/rblx/index
+    link: /games/rblx
     details: Tools, websites and revivals for a corporate block game.
     icon:
        src: 'https://files.catbox.moe/traro4.png'
   - title: WEBFISHING
-    link: /sect/webfish/index
+    link: /games/webfish
     details: Tools, mods and notes for a chatroom fishing game.
     icon:
        src: 'https://files.catbox.moe/oipfw4.jpg'
