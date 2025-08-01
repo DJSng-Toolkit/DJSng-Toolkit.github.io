@@ -19,6 +19,8 @@ features:
   - title: Jericho's Library
     link: /library
     details: General resources that's not tied to any one specific game.
+    icon:
+       src: '/hero.png'
   - title: Minecraft
     link: /games/mc/index
     details: Resources, websites and optimizations for a popular block game.
