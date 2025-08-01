@@ -16,11 +16,11 @@ export default defineConfig({
    copyright: "Copyright © 2025-present DJSng",
  },
     // https://vitepress.dev/reference/default-theme-config
-	logo: 'https://files.catbox.moe/kwrhix.png',
+	logo: '/hero.png',
   outline: 'deep',
   outlineTitle: 'Table of Contents',
 	head: [
-	['link', { rel: 'icon', href: 'https://files.catbox.moe/kwrhix.png' }],
+	['link', { rel: 'icon', href: '/hero.png' }],
 	],
     nav: [
       { text: 'Home', link: '/' },
