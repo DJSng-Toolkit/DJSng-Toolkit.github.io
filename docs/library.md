@@ -111,7 +111,7 @@ Tools to play music from local files. Great if you download your music.
 
 ## Game Clones
 
-**[Luanti](https://www.luanti.org/)** - Minecraft
+- **[Luanti](https://www.luanti.org/)** - Minecraft
 
 ***
 
@@ -178,12 +178,12 @@ Also check in with [FMHY](https://fmhy.net/unsafesites), which covers more softw
 
 ### Software - Remote Control
 
-**[TeamViewer](https://www.teamviewer.com/en-ca/)** - Random disconnects / AI integration / File transfer is paid / Poor mobile support
+- **[TeamViewer](https://www.teamviewer.com/en-ca/)** - Random disconnects / AI integration / File transfer is paid / Poor mobile support
 
 ***
 
 ## Software - Music
-**[Winamp](https://winamp.com/)** - Not run by the original developers, use WACUP / NFT & AI integration / Legacy builds are buggy
+- **[Winamp](https://winamp.com/)** - Not run by the original developers, use WACUP / NFT & AI integration / Legacy builds are buggy
 
 ***
 
