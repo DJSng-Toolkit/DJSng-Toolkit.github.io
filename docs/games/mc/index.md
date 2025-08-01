@@ -16,7 +16,7 @@ I have attempted to label mods that may do nothing for users best I can. You sho
 # Disclaimer
 Mods are tested to the best of my ability to ensure that they are not malicious or infected, I try my best to check mods myself before adding them to this repo. I cannot be held responsibile if you are infected with anything on this list, I cannot check every single update manually. You should check mods on your own time using provided file hashes, extracting the file contents, or whatever means you see fit.  
 
-# Modding resources
+## Modding resources
 Note that these are all per game version, as each version has its own preferences.  
 **All entries here are styled in tables** like TheUsefulLists, even though the rest of the page uses a FMHY style. This is intentional.
 
@@ -51,9 +51,9 @@ Note that these are all per game version, as each version has its own preference
 | [Fastload](https://modrinth.com/mod/fastload) | Unknown | 1.18.x - 1.20.1 | Both | It's safer than Kyxsis at the cost of being unstable. I've had poor experiences with this mod. Also, since 25w31a, you no longer need this mod because of changes to chunk loading. |
 | [FPS to the Trash](https://modrinth.com/mod/fps-to-the-trash) | VulkanMod | 1.15+ | Client | Doesn't actually optimize the game, just tosses frames the monitor can't see. |
 
-# Version unspecific resources
-## Launchers
-### Modding Launchers
+## Version unspecific resources
+### Launchers
+#### Modding Launchers
 (a.k.a. "modded launchers", "modpack launchers", "what you probably want")  
 
 | Name | Description | Author | Notes |
@@ -64,7 +64,7 @@ Note that these are all per game version, as each version has its own preference
 | [GDLauncher](https://gdlauncher.com/) | GDLauncher Carbon is a simple, yet powerful Minecraft custom launcher with a strong focus on the user experience  | Gorilla Devs | Legacy branch is deprecated. Carbon is their new launcher, but it has ads and you have to pay to remove them. You could try [this fork](https://github.com/Official-Husko/GDLauncher-Carbon-adless) which doesn't have them (at your own risk, of course). |
 | [MultiMC](https://multimc.org/) | MultiMC is an alternative launcher for Minecraft. It allows you to have multiple, cleanly separated instances of Minecraft (each with their own mods, resource packs, saves, etc) and helps you manage them and their associated options with a simple and powerful interface. | MultiMC team | Originally a GOAT of the Minecraft launcher space, but Prism outdoes MultIMC nowadays as Prism manages more instance stuff that MultiMC makes you do manually. |
 
-### Clients and Client Launchers
+#### Clients and Client Launchers
 (a.k.a. "strictpacks" (as described in [my old client rant](https://rentry.co/mclients)))    
 You should still use alternative mods for [Lunar](https://microcontrollersdev.github.io/Alternatives/latest/lunar/) and [Feather](https://microcontrollersdev.github.io/Alternatives/latest/feather/)'s features where possible.  
 
@@ -75,25 +75,25 @@ You should still use alternative mods for [Lunar](https://microcontrollersdev.gi
 | [Axolotl Client](https://modrinth.com/mod/axolotlclient) | The most configurable HUD mod combined with everything else you might need to play - Your mod for the optimal PvP experience. | AxolotlClient team | AxolotlClient is a cool client mod for mod users. It might be too barebones for some, but it's a really cool alternative. |
 | [Lunar Client](https://www.lunarclient.com/) | A modpack for all modern versions of Minecraft! | Lunar Team | Really ironic I put this here. It's an okay choice if you don't care about any capacity about modding or anything, but it's listed on Sodium's Supported Launcher list of "Launchers with known issues" list, so you should probably look for something else. | 
 
-## Modpacks
-### Vanilla compatible
+### Modpacks
+#### Vanilla compatible
 | Name | Description | Author | Notes |
 | --- | :---: | :---: | :---: |
 | [🏆 Simply Optimized](https://modrinth.com/modpack/sop) | The leading, well-researched optimization modpack with a focus on pure performance. | HyperSoup | Community favorite, I think. They bundle their own fork of ModernFix with every version! |
 | [⭐ Adrenaline](https://modrinth.com/modpack/adrenaline) | Leading, lightweight, and unbiased performance modpack with no QoL features  | SkywardMC | Good alternative to Simply Optimized that I prefer over Simply Optimized |
 
-### Vanilla+
+#### Vanilla+
 (not Vanilla compatible)   
 
     
 | Name | Description | Author | Notes |
 | --- | :---: | :---: | :---: |
 
-### Modded
+#### Modded
 | Name | Description | Author | Notes |
 | --- | :---: | :---: | :---: |
 
-## websites
+### websites
 This has been moved to [DJSng's Resources](/library.md).
 
 
