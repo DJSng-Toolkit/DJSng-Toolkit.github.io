@@ -20,16 +20,16 @@ features:
     link: /games/mc/index
     details: Resources, websites and optimizations for a popular block game.
     icon:
-       src: 'https://files.catbox.moe/etxyzt.png'
+       src: '/mc.png'
   - title: ROBLOX
     link: /games/rblx
     details: Tools, websites and revivals for a corporate block game.
     icon:
-       src: 'https://files.catbox.moe/traro4.png'
+       src: '/rblx.png'
   - title: WEBFISHING
     link: /games/webfish
     details: Tools, mods and notes for a chatroom fishing game.
     icon:
-       src: 'https://files.catbox.moe/oipfw4.jpg'
+       src: '/fish.jpg'
 ---
 
