@@ -8,7 +8,7 @@ export default defineConfig({
       md.use(footnote)
     }
   },
-  title: "DJSng's Toolkit",
+  title: "Toolkit",
   description: "A bundle of resources curated by DJSng.",
   themeConfig: {
     footer: {
