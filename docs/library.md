@@ -75,6 +75,7 @@ All themes here require manual install that may be confusing to some users.
 > This section is mainly tailored to Firefox user.
 
 - 🏆 [uBlock Origin](https://ublockorigin.com/) - Ad & content blocking / **Performs worse on Chromium**
+- **[Ruffle](https://ruffle.rs/)** - Play Flash Games on any modern browser
 
 ***
 
