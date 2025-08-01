@@ -12,7 +12,7 @@ export default defineConfig({
   description: "A bundle of resources curated by DJSng.",
   themeConfig: {
     footer: {
-   message: "Released under the MIT License.",
+   message: "Licensed under Unlicense.",
    copyright: "Copyright © 2025-present DJSng",
  },
     // https://vitepress.dev/reference/default-theme-config
