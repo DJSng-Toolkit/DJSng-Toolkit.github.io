@@ -5,9 +5,8 @@ I'd like to very quickly take the time to thank everybody who had an involvement
 DJSng's Toolkit features work originally developed by...
 
 - [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods)  
-
-Toolkit uses some mod listings and modified tables provided by TUL.
-Licensed under MIT License.
+    - Toolkit uses some mod listings and modified tables provided by TUL.
+    - Licensed under MIT License.
 
 ## Contributors
 
