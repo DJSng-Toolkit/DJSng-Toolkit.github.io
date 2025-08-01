@@ -11,8 +11,9 @@ A bunch of fan utilities for ROBLOX.
 If you ever have issues with your game that causes UI bugs or otherwise has disabled features that used to work, the first thing you should do is disable all of your custom flags and use your launcher's built-in option to not apply modifications on next launch.  
 
 Remember to also tell your launcher to completely reinstall ROBLOX.  
+:::
 
-::: details
+::: warning
 ROBLOX plans to remove FastFlags soon due to user abuse. These flags may stop working at any time.  
 Toolkit is not a FastFlag guide.
 :::
