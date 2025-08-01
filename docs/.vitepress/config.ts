@@ -35,7 +35,7 @@ export default defineConfig({
         ]
       },
 	    {
-        text: 'Gaming guides',
+        text: 'Gaming Resources',
         items: [
           { text: 'ROBLOX', link: '/games/rblx' },
           { text: 'Minecraft', link: '/games/mc/index' },
@@ -43,7 +43,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Resources',
+        text: 'General Resources',
         items: [
           { text: 'Jericho Library', link: '/library.md' }
         ]
