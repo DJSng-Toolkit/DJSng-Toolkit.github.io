@@ -30,7 +30,7 @@ This page does not include anything listed in our game guides, as that's not its
 ::: warning
 ***NEVER*** install a remote control software if instructed by another user, especially if it's to "clean" your computer of viruses. The caller on the other end will just steal and delete all of your files.  
 You should only need a software of this kind if you want to access one of your devices from another device, or you need to perform tech tasks over the internet that need some help from a nerd.
-::
+:::
 
 - **[✨ Aspia](https://aspia.org/)** - Technical knowledge required / Port forwarding required
 - **[RustDesk](https://rustdesk.com/)** - **Some bugs**
@@ -49,7 +49,7 @@ You should only need a software of this kind if you want to access one of your d
 #### Firefox Themes
 ::: warning
 All themes here require manual install that may be confusing to some users.
-::
+:::
 
 - [✨ Firefox GX](https://github.com/Godiesc/firefox-gx) - Read their homepage
 
@@ -114,7 +114,7 @@ Content for Minecraft.
 ### Launchers
 ::: note
 This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
-::
+:::
 
 - **[🏆 Prism Launcher]**(https://github.com/PrismLauncher/PrismLauncher)** - Based on MultiMC / Mod management / Lightweight / **[Ely.by & cracked fork](https://github.com/ElyPrismLauncher/ElyPrismLauncher)** / **[Play without an account](https://rentry.co/prism4free)**
 - **[⭐ BetaCraft](https://betacraft.uk/)** - Old Minecraft / Beginner friendly
