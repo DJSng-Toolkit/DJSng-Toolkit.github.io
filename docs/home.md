@@ -13,9 +13,9 @@ Mods and other featured tools are tested to the best of my ability to ensure tha
 ## Browse
 
 ### Games
-- [WEBFISHING](/games/webfish)
 - [ROBLOX](/games/rblx)
 - [Minecraft](/games/mc/index)
+- [WEBFISHING](/games/webfish)
 
 ### Other pages
 - [DJSng's Resources](/library.md)

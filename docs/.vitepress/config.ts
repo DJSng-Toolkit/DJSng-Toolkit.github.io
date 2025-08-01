@@ -37,9 +37,9 @@ export default defineConfig({
 	    {
         text: 'Gaming guides',
         items: [
-          { text: 'Minecraft', link: '/games/mc/index' },
-		      { text: 'WEBFISHING', link: '/games/webfish' },
           { text: 'ROBLOX', link: '/games/rblx' }
+          { text: 'Minecraft', link: '/games/mc/index' },
+          { text: 'WEBFISHING', link: '/games/webfish' }
         ]
       },
       {
