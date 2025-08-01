@@ -12,9 +12,9 @@ export default defineConfig({
   description: "A bundle of resources curated by DJSng.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-	logo: '/hero.png',
+	logo: 'https://files.catbox.moe/kwrhix.png',
 	head: [
-	['link', { rel: 'icon', href: 'https://files.catbox.moe/vo1hfl.ico' }],
+	['link', { rel: 'icon', href: 'https://files.catbox.moe/kwrhix.png' }],
 	],
     nav: [
       { text: 'Home', link: '/' },
