@@ -2,15 +2,17 @@
 title: Jericho's Library
 ---
 
-# Jericho's Library (by DJSng)
-### A general resources page of various topics.
+# Jericho's Library
+A general resources page of various topics.
+
+
 Jericho's Library is the new, permanent home of my resources page, which was present on my site (and prior, on my SpaceHey) for approximately two years. I have decided to move it under a GitHub organization like the rest of my Toolkit related projects, where it can happily stay.  
 
 This page is mostly inspired by FMHY, with a bit of redundant resources removed every once and a while, or an occasional site that I like, that nobody's ever talked about.  
 
 **This page is structured differently than other DJSng's Toolkit resources**, where this README holds all of the resources with no changes or extra click.  
 
-This page does not include anything listed on DJSng's Toolkit, as that's not its purpose. You should still read [DJSng's Toolkit's library of resources](https://github.com/djsng-toolkit/index) if something interests you.
+This page does not include anything listed on DJSng's Toolkit, as that's not its purpose. You should still read the main pages if something interests you.
 
 # Guide
 | Icon | Meaning |
@@ -20,6 +22,7 @@ This page does not include anything listed on DJSng's Toolkit, as that's not its
 | ✨ | Unique resource |
 
 <!-- contributors please use https://ecotrust-canada.github.io/markdown-toc/ to generate the TOC with every change -->
+
 # Table of Contents
 - [Other resource pages](#other-resource-pages)
 - [Technology - Software](#technology---software)

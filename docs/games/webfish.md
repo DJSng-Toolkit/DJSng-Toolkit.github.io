@@ -2,6 +2,8 @@
 title: WEBFISHING
 ---
 
+# WEBFISHING
+
 A bunch of mods for WEBFISHING, the funny social game. Most of the mods here are Quality of Life as WEBFISHING doesn't have a very involved and active Optimization scene like Minecraft does.
 
 ::: warning

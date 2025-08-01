@@ -12,11 +12,8 @@ hero:
     alt: DJSng's Toolkit Logo
   actions:
     - theme: brand  
-      text: Browse by game
+      text: Start browsing
       link: /home
-    - theme: alt  
-      text: General resources
-      link: /library
 
 features:
   - title: Minecraft
