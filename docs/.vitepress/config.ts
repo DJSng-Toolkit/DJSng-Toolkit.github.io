@@ -20,9 +20,9 @@ export default defineConfig({
 	{
         text: 'Gaming guides',
         items: [
-          { text: 'Minecraft', link: '/sect/minecraft' },
-		  { text: 'WEBFISHING', link: '/sect/webfish' },
-          { text: 'ROBLOX', link: '/sect/rblx' }
+          { text: 'Minecraft', link: '/sect/minecraft/index.md' },
+		  { text: 'WEBFISHING', link: '/sect/webfish/index.md' },
+          { text: 'ROBLOX', link: '/sect/rblx/index.md' }
         ]
       },
       {
