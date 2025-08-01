@@ -22,11 +22,11 @@ Toolkit is not a FastFlag guide.
 Mods are tested to the best of my ability to ensure that they are not malicious or infected, I try my best to check mods myself before adding them to this repo. I cannot be held responsibile if you are infected with anything on this list, I cannot check every single update manually. You should check mods on your own time using provided file hashes, extracting the file contents, or whatever means you see fit.  
 
 ## Bootstrappers
-| Name | Description | Author | Platform | FastFlags |
-| --- | :---: | :---: | :---: | :---: |
-| [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) | Bloxstrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements. | bloxstraplabs | Windows | Unsure |
-| [Fishstrap](https://github.com/fishstrap/fishstrap) | Fishstrap is a Bloxstrap fork aiming to enhance some of the features. | returnqt | Windows | Yes |
-| [Kliko's Modloader](https://github.com/klikos-modloader/klikos-modloader) | Roblox mods made easy | TheKliko | Windows | Yes |
+| Name | Description |  Platform | FastFlags |
+| --- | :---: | :---: | :---: |
+| [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap) | Bloxstrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements. | Windows | Unsure |
+| [Fishstrap](https://github.com/fishstrap/fishstrap) | Fishstrap is a Bloxstrap fork aiming to enhance some of the features. | Windows | Yes |
+| [Kliko's Modloader](https://github.com/klikos-modloader/klikos-modloader) | Roblox mods made easy | Windows | Yes |
 
 ## Extensions
 | Name | Description | Author | Platform | Notes |
