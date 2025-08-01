@@ -188,7 +188,7 @@ This page is a mirror of Toolkit's page, with only stuff I would personally reco
 - **[Essential Alternatives](https://notessential.blurry.gay/)**
 - **[Minecraft MOTD Color Codes](https://htmlcolorcodes.com/minecraft-color-codes/)**
 - **[PCGamingWiki's page on Minecraft](https://www.pcgamingwiki.com/wiki/Minecraft:_Java_Edition)** - General information / **Not recommended for modding advice**
-- **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** / Shader resources
+- **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** - Shader resources
 
 ***
 
