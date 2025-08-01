@@ -53,3 +53,4 @@ Be careful what you install.
 | --- | :---: | :---: | :---: |
 | [archive.roblonium.com](https://archive.roblonium.com/) | We aim to be the biggest and most complete archive of the ROBLOX game on the internet. | Has clients, images, and some other stuff. Mainly meant for Revival creators and people who just want to mess with old Studios. |
 | [RCHIVE](https://archive.org/details/rchive_) | This is Rchive, the biggest Roblox place archive, with more than 30 GB uncompressed. | Mainly meant for revival players. **DO NOT REUPLOAD THESE GAMES ONTO YOUR ROBLOX ACCOUNT, YOU ARE VERY LIKELY TO GET BANNED** |
+| [Robloxopolis](https://robloxopolis.com/) | Robloxopolis is a fan made and maintained blog about the history of ROBLOX. | Formerly known as ClientSearch on Tumblr. Client and media archive of ROBLOX. |
