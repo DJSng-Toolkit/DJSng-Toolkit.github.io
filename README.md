@@ -23,9 +23,7 @@ Credits and contributors can be viewed [here](https://djsng-toolkit.github.io/co
   miscelaneous section
 
 # Licenses
-The majority of Toolkit's resources are available under Unlicense, which you can read more about [here](LICENSE).  
-The only exception to this rule is [Toolkit](https://github.com/DJSng-Toolkit/Toolbox)), which is licensed under the MIT license.
-You can read more about the licenses some included software uses in [COPYING.md](COPYING.md).    
+DJSng's Toolkit is available under Unlicense, which you can read more about [here](LICENSE).  
 
 Toolkit also includes assets from the following software:  
 - TheUsefulLists: MIT License
