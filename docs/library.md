@@ -45,15 +45,18 @@ You should only install a remote control program if you need to access your comp
 ## Technology - Internet
 ### Web Browsing
 #### Browsers
+::: warning
+Manifest V2 will be deprecated upon the release of Chrome 129 on August 4th. Chromium browsers are not eligible for being listed at this time.
+
+We'll wait and see what happened to Manifest V2 support by all the most popular browsers.
+:::
+
 ::: danger
 Chromium based browsers, when paired with uBlock Origin, usually have poor adblocking due to the fact that ads cannot be blocked **before** the page loads. If you need serious adblocking, tend to misclick on pages a lot, or just generally hate ads, consider a Firefox/Gecko based option.
 :::
 
 - 🏆 **[Firefox](https://www.firefox.com)** - Gecko
 - ⭐ **[Floorp](https://floorp.app)** - Gecko / Use Floorp 11 for Themes
-- ✨ **[Supermium](https://github.com/win32ss/supermium)** - Chromium / Supports Windows 8.1 and earlier / Manifest V2 support
-- **[Brave](https://brave.com/)** - Chromium / Crypto & AI elements / **[Controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/)**
-- **[Vivaldi](https://vivaldi.com/)** - Chromium / Poor built-in adblock
 - **[Zen Browser](https://zen-browser.app/)** - Gecko / **[Code Snippets](https://zen-browser.app/mods/)**
 
 ***
