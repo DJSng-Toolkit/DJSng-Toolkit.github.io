@@ -48,7 +48,7 @@ You should only install a remote control program if you need to access your comp
 ::: warning
 Manifest V2 will be deprecated upon the release of Chrome 129 on August 4th. Chromium browsers are not eligible for being listed at this time.
 
-We'll wait and see what happened to Manifest V2 support by all the most popular browsers.
+We'll wait and see what happens to Manifest V2 support by all the most popular browsers, including some previously listed options.
 :::
 
 ::: danger
