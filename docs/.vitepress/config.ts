@@ -22,7 +22,7 @@ export default defineConfig({
 	head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Blog', link: '/contributors.md' },
+      { text: 'Credits', link: '/contributors.md' },
       { text: 'Blog', link: 'https://djsng.bearblog.dev/' },
 	    { text: 'Website', link: 'https://djsng.neocities.org/' }
     ],
