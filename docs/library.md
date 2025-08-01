@@ -17,15 +17,15 @@ This page does not include anything listed in our game guides, as that's not its
 | ✨ | Unique resource |
 
 ## Other resource pages
-- **[🏆 FREEMEDIAHECKYEAH](https://fmhy.net/)** - General Resources / Piracy Resources
+- 🏆 **[FREEMEDIAHECKYEAH](https://fmhy.net/)** - General Resources / Piracy Resources
 - **[Ivyswell's Tavern - Resources](https://ivyswell-tavern.neocities.org/resources)** - General Resources
 
 ***
 
 ## Technology - Software
 ### Windows feature alternatives
-- **[🏆 Directory Opus](https://www.gpsoft.com.au/)** - File Explorer alternative / **Paid**
-- **[🏆 Everything](https://www.voidtools.com/)** - File Search alternative
+- 🏆 **[Directory Opus](https://www.gpsoft.com.au/)** - File Explorer alternative / **Paid**
+- 🏆 **[Everything](https://www.voidtools.com/)** - File Search alternative
 - **[Explorer++](https://explorerplusplus.com/)** - File Explorer alternative / **Buggy** / Use Nightly
 
 ***
@@ -36,7 +36,7 @@ This page does not include anything listed in our game guides, as that's not its
 You should only need a software of this kind if you want to access one of your devices from another device, or you need to perform tech tasks over the internet that need some help from a nerd.
 :::
 
-- **[✨ Aspia](https://aspia.org/)** - Technical knowledge required / Port forwarding required
+- ✨ **[Aspia](https://aspia.org/)** - Technical knowledge required / Port forwarding required
 - **[RustDesk](https://rustdesk.com/)** - **Some bugs**
 
 ***
@@ -48,9 +48,9 @@ You should only need a software of this kind if you want to access one of your d
 Chromium based browsers, when paired with uBlock Origin, usually have poor adblocking due to the fact that ads cannot be blocked **before** the page loads. If you need serious adblocking, tend to misclick on pages a lot, or just generally hate ads, consider a Firefox/Gecko based option.
 :::
 
-- **[🏆 Firefox](https://www.firefox.com)** - Gecko / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
-- **[⭐ Floorp](https://floorp.app)** - Gecko / Mozilla Sync support / Use Floorp 11 for Themes / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
-- **[✨ Supermium](https://github.com/win32ss/supermium)** - Chromium / Supports Windows 8.1 and earlier / Manifest V2 support
+- 🏆 **[Firefox](https://www.firefox.com)** - Gecko / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
+- ⭐ **[Floorp](https://floorp.app)** - Gecko / Mozilla Sync support / Use Floorp 11 for Themes / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
+- ✨ **[Supermium](https://github.com/win32ss/supermium)** - Chromium / Supports Windows 8.1 and earlier / Manifest V2 support
 - **[Brave](https://brave.com/)** - Chromium / Crypto and AI elements / **[Controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/)**
 - **[Vivaldi](https://vivaldi.com/)** - Chromium / Poor built-in adblock
 - **[Zen Browser](https://zen-browser.app/)** - Gecko / **[Code Snippets](https://zen-browser.app/mods/)** / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
@@ -62,7 +62,7 @@ Chromium based browsers, when paired with uBlock Origin, usually have poor adblo
 All themes here require manual install that may be confusing to some users.
 :::
 
-- [✨ Firefox GX](https://github.com/Godiesc/firefox-gx) - Read their homepage
+- ✨ [Firefox GX](https://github.com/Godiesc/firefox-gx) - Read their homepage
 
 ***
 
@@ -70,7 +70,7 @@ All themes here require manual install that may be confusing to some users.
 > [!WARNING]
 > This section is mainly tailored to Firefox user.
 
-- [🏆 uBlock Origin](https://ublockorigin.com/) - Ad and content blocking / **Performs worse on Chromium**
+- 🏆 [uBlock Origin](https://ublockorigin.com/) - Ad and content blocking / **Performs worse on Chromium**
 
 ***
 
@@ -88,14 +88,14 @@ All themes here require manual install that may be confusing to some users.
 ### Music
 #### Downloading
 
-- [⭐ Nicotine+](https://nicotine-plus.org/) - Soulseek
+- ⭐ [Nicotine+](https://nicotine-plus.org/) - Soulseek
 
 ***
 
 #### Playing - Locally
 Tools to play music from local files. Great if you download your music.
 
-- **[🏆 foobar2000](https://www.foobar2000.org/)** - Customizable / **[Plugins](https://www.foobar2000.org/components)** / **[Last.fm](https://www.foobar2000.org/components/view/foo_scrobble)**
+- 🏆 **[foobar2000](https://www.foobar2000.org/)** - Customizable / **[Plugins](https://www.foobar2000.org/components)** / **[Last.fm](https://www.foobar2000.org/components/view/foo_scrobble)**
 - **[AIMP](https://www.aimp.ru/)** - Customizable / **[Plugins & Themes](https://www.aimp.ru/?do=catalog)**
 - **[MusicBee](https://www.getmusicbee.com/)** - **[Plugins](https://www.getmusicbee.com/addons)**
 - **[WACUP](https://getwacup.com/)** - Winamp based
@@ -113,7 +113,7 @@ General gaming resources and guides that can apply to a variety of games.
 
 ### Resources & Guides
 
-- **[✨ PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)** - Guides / Resources / Bug fixes
+- ✨ **[PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)** - Guides / Resources / Bug fixes
 
 ***
 
@@ -131,7 +131,7 @@ General gaming resources and guides that can apply to a variety of games.
 
 ### Flash
 
-- **[🏆 Flashpoint Archive](https://flashpointarchive.org/)** - Non-Steam / Play-as-you-go (with Infinity)
+- 🏆 **[Flashpoint Archive](https://flashpointarchive.org/)** - Non-Steam / Play-as-you-go (with Infinity)
 - **[Ninia Kiwi Archive](https://ninjakiwi.com/archive)** - Steam / Non-Steam
 
 ***
@@ -148,11 +148,11 @@ Content for Minecraft.
 This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
 :::
 
-- **[🏆 Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)** - Based on MultiMC / Mod management / Lightweight / **[Ely.by & cracked fork](https://github.com/ElyPrismLauncher/ElyPrismLauncher)** / **[Play without an account](https://rentry.co/prism4free)**
-- **[⭐ BetaCraft](https://betacraft.uk/)** - Old Minecraft / Beginner friendly
-- **[⭐ Modrinth App](https://modrinth.com/app)** - Mod management / Beginner friendly
-- **[✨ ATLauncher](https://atlauncher.com)** - Mod management / Server management / Beginner friendly
-- **[✨ Quantum Launcher](https://github.com/Mrmayman/quantumlauncher)** - Mod management / Lightweight
+- 🏆 **[Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)** - Based on MultiMC / Mod management / Lightweight / **[Ely.by & cracked fork](https://github.com/ElyPrismLauncher/ElyPrismLauncher)** / **[Play without an account](https://rentry.co/prism4free)**
+- ⭐ **[BetaCraft](https://betacraft.uk/)** - Old Minecraft / Beginner friendly
+- ⭐ **[Modrinth App](https://modrinth.com/app)** - Mod management / Beginner friendly
+- ✨ **[ATLauncher](https://atlauncher.com)** - Mod management / Server management / Beginner friendly
+- ✨ **[Quantum Launcher](https://github.com/Mrmayman/quantumlauncher)** - Mod management / Lightweight
 - **[Bedrock Launcher](https://bedrocklauncher.github.io/)**
 - **[MultiMC](https://multimc.org/)**
 
@@ -160,8 +160,8 @@ This page is a mirror of Toolkit's page, with only stuff I would personally reco
 
 ### Lists
 
-- **[⭐ MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide)**
-- **[⭐ TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods)** / **[Tools](https://github.com/TheUsefulLists/UsefulMinecraft)**
+- ⭐ **[MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide)**
+- ⭐ **[TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods)** / **[Tools](https://github.com/TheUsefulLists/UsefulMinecraft)**
 - **[Legacy Fabric Mod Compatibility List](https://legacyfabric.net/mods.html)**
 - **[List of "Essential" 1.7.10 Mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c)**
 
@@ -175,9 +175,9 @@ This page is a mirror of Toolkit's page, with only stuff I would personally reco
 
 ### Websites
 
-- **[🏆 NameMC](https://namemc.com/)** - Servers, skins, capes & usernames
-- **[🏆 Omniarchive](https://omniarchive.uk/)** - Minecraft version archive
-- **[⭐ VanillaTweaks](https://vanillatweaks.net/)** - Resource packs / Data packs
+- 🏆 **[NameMC](https://namemc.com/)** - Servers, skins, capes & usernames
+- 🏆 **[Omniarchive](https://omniarchive.uk/)** - Minecraft version archive
+- ⭐ **[VanillaTweaks](https://vanillatweaks.net/)** - Resource packs / Data packs
 - **[Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/)** - JVM Flags / Potentially dangerous
 - **[Ely.by](https://ely.by)** - Alternative skin system
 - **[Essential Alternatives](https://notessential.blurry.gay/)**
