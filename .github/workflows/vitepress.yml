@@ -37,7 +37,7 @@ jobs:
         with:
           node-version: 22
           cache: npm # or pnpm / yarn
-      - run: npm install markdown-it-footnote
+      - run: npm install markdown-it-footnote # install footnote support on every run to stop errors
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Install dependencies
