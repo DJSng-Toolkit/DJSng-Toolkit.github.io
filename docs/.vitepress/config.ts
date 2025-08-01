@@ -17,6 +17,7 @@ export default defineConfig({
  },
     // https://vitepress.dev/reference/default-theme-config
 	logo: 'https://files.catbox.moe/kwrhix.png',
+  outline: 'deep',
 	head: [
 	['link', { rel: 'icon', href: 'https://files.catbox.moe/kwrhix.png' }],
 	],
@@ -58,6 +59,5 @@ interface Outline {
    *
    * @default 1
    */
-  level?: [2, 6]
   label?: 'Table of Contents'
 }
