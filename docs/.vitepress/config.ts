@@ -28,7 +28,14 @@ export default defineConfig({
     ],
 
     sidebar: [
-	{
+      {
+        text: 'Meta',
+        items: [
+          { text: 'Home Page', link: '/home.md' },
+          { text: 'Credits', link: '/contributors.md' }
+        ]
+      },
+	    {
         text: 'Gaming guides',
         items: [
           { text: 'Minecraft', link: '/games/mc/index' },
