@@ -21,12 +21,20 @@ hero:
       text: General resources
       link: /sect/library
 
+-> Take a look at some stuff we have to offer! <-
+
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Minecraft
+    link: /sect/mc/index
+    details: Resources, websites and optimizations for a popular block game.
+    icon: https://files.catbox.moe/etxyzt.png
+  - title: ROBLOX
+    link: /sect/rblx/index
+    details: Tools, websites and revivals for a corporate block game.
+    icon: https://files.catbox.moe/traro4.png
+  - title: WEBFISHING
+    link: /sect/webfish/index
+    details: Tools, mods and notes for a chatroom fishing game.
+    icon: https://files.catbox.moe/oipfw4.jpg
 ---
 
