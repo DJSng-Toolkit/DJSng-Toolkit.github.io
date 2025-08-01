@@ -20,8 +20,7 @@ body:
         - Minecraft
         - WEBFISHING
         - ROBLOX
-        - Toolbox's Wiki
-        - Other
+        - DJSng's Toolkit
       default: 0
     validations:
       required: true
