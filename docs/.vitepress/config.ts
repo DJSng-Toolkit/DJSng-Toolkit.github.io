@@ -7,9 +7,7 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
 	logo: '/hero.png',
-	head: [
-	['link', { rel: "shortcut icon", href: "https://files.catbox.moe/kwrhix.png"}],
-	],
+	head: [['link', { rel: 'icon', href: 'https://files.catbox.moe/kwrhix.png' }]],
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Source', link: 'https://github.com/DJSng-Toolkit/DJSng-Toolkit.github.io' }
