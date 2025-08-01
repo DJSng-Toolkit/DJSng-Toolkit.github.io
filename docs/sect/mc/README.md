@@ -7,7 +7,6 @@
 > benchmark your shit in between changes.
 
 A maximalist approach on [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) with a bunch of tools, mods, websites and other utilities, all personally curated with better compatibility notes, and specific sub-version mod configs. **This is not a replacement for existing lists**, you should still turn to other lists to back up sources.  
-Remember to view the [main branch README](../README.md) for icon meaning.  
 
 Toolkit is mainly based on personal experience. I 
 
