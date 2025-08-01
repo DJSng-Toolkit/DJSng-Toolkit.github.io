@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "DJSng's Toolkit"
   text: "A bundle of resources curated by DJSng."
-  tagline: My great project tagline
+  tagline: Hi tagline
   actions:
     - theme: brand
       text: Markdown Examples
