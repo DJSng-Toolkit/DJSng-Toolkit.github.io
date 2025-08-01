@@ -12,15 +12,23 @@ export default defineConfig({
 	],
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Source', link: 'https://github.com/DJSng-Toolkit/DJSng-Toolkit.github.io' }
+      { text: 'Blog', link: 'https://djsng.bearblog.dev/' },
+	  { text: 'Website', link: 'https://djsng.neocities.org/' }
     ],
 
     sidebar: [
-      {
-        text: 'Examples',
+	{
+        text: 'Gaming guides',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Minecraft', link: '/sect/minecraft' },
+		  { text: 'WEBFISHING', link: '/sect/webfish' },
+          { text: 'ROBLOX', link: '/sect/rblx' }
+        ]
+      },
+      {
+        text: 'Resources',
+        items: [
+          { text: 'Jericho Library', link: '/sect/library.md' }
         ]
       }
     ],
