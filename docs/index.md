@@ -1,21 +1,22 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
+title: Home
 layout: home
+description: DJSng's personal list of resources, mods and guides.
 
 hero:
   name: "DJSng's Toolkit"
-  text: "A bundle of resources curated by DJSng."
-  tagline: A tagline here
+  text: "Free resources, by a casual."
+  image:
+    src: /logo.png
+    alt: DJSng's Toolkit Logo
   actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: brand
-      text: Test
-      link: /example2
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+    - theme: brand  
+      text: Start browsing
+      link: /home
+    - theme: alt  
+      text: General resources
+      link: /sect/library
 
 features:
   - title: Feature A
