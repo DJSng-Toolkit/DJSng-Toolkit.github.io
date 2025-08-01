@@ -200,10 +200,10 @@ Also check in with [FMHY](https://fmhy.net/unsafesites), which covers more softw
 
 ***
 
-## Software - Music
+### Software - Music
 - **[Winamp](https://winamp.com/)** - Not run by the original developers, use WACUP / NFT & AI integration / Legacy builds are buggy
 
 ***
 
-## Software - Games
+### Software - Games
 - **[TLauncher](https://tlauncher.org/)** - Not to be confused with [TLauncher Legacy](https://archive.org/details/tl-legacy-installer-legacy_20240328) / Spyware
