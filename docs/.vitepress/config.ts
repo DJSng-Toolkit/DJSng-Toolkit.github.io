@@ -22,6 +22,7 @@ export default defineConfig({
 	head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Blog', link: '/contributors.md' },
       { text: 'Blog', link: 'https://djsng.bearblog.dev/' },
 	    { text: 'Website', link: 'https://djsng.neocities.org/' }
     ],
@@ -31,7 +32,7 @@ export default defineConfig({
         text: 'Gaming guides',
         items: [
           { text: 'Minecraft', link: '/games/mc/index' },
-		  { text: 'WEBFISHING', link: '/games/webfish' },
+		      { text: 'WEBFISHING', link: '/games/webfish' },
           { text: 'ROBLOX', link: '/games/rblx' }
         ]
       },
