@@ -8,7 +8,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
 	logo: '/hero.png',
 	head: [
-	['link', { rel: "shortcut icon", href: "/hero.png"}],
+	['link', { rel: "shortcut icon", href: "https://files.catbox.moe/kwrhix.png"}],
 	],
     nav: [
       { text: 'Home', link: '/' },

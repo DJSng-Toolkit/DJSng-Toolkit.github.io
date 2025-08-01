@@ -8,7 +8,7 @@ hero:
   name: "DJSng's Toolkit"
   text: "Free resources, by a casual."
   image:
-    src: /hero.png
+    src: https://files.catbox.moe/kwrhix.png
     alt: DJSng's Toolkit Logo
   actions:
     - theme: brand  
