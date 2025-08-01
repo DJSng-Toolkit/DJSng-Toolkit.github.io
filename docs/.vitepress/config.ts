@@ -19,7 +19,7 @@ export default defineConfig({
 	logo: '/hero.png',
   outline: 'deep',
   outlineTitle: 'Table of Contents',
-	head: [['link', { rel: 'icon', href: '/hero.png' }]],
+	head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Blog', link: 'https://djsng.bearblog.dev/' },
