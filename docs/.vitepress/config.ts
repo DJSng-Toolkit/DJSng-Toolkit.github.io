@@ -11,6 +11,10 @@ export default defineConfig({
   title: "DJSng's Toolkit",
   description: "A bundle of resources curated by DJSng.",
   themeConfig: {
+    footer: {
+   message: "Released under the MIT License.",
+   copyright: "Copyright © 2025-present DJSng",
+ },
     // https://vitepress.dev/reference/default-theme-config
 	logo: 'https://files.catbox.moe/kwrhix.png',
 	head: [
