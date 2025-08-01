@@ -135,6 +135,7 @@ General gaming resources and guides that can apply to a variety of games.
 ### Flash
 
 - 🏆 **[Flashpoint Archive](https://flashpointarchive.org/)** - Non-Steam / Play-as-you-go (with Infinity)
+- ⭐ **[Ruffle](https://ruffle.rs/)** - Adobe Flash emulator
 - **[Ninia Kiwi Archive](https://ninjakiwi.com/archive)** - Steam / Non-Steam
 
 ***
