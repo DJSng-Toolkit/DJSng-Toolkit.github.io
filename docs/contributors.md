@@ -17,5 +17,5 @@ DJSng's Toolkit features work originally developed by...
 ## Contributors
 
 - [DJSng](https://github.com/DJSng4) (ownership)
-- [AL-E](https://github.com/fem-al-e) (logo design)
+- [AL-E](https://github.com/fem-al-e) (logo design, entry contributions)
 - [wintrmoon](https://github.com/wintrmoon) (proofreading, corrections)
