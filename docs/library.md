@@ -17,8 +17,8 @@ This page does not include anything listed in our game guides, as that's not its
 | ✨ | Unique resource |
 
 ## Other resource pages
-- 🏆 **[FREEMEDIAHECKYEAH](https://fmhy.net/)** - General Resources / Piracy Resources
-- **[Ivyswell's Tavern - Resources](https://ivyswell-tavern.neocities.org/resources)** - General Resources
+- 🏆 **[FREEMEDIAHECKYEAH](https://fmhy.net/)** - Software, Websites & Guides / Piracy
+- **[Ivyswell's Tavern - Resources](https://ivyswell-tavern.neocities.org/resources)** - Websites & Guides
 
 ***
 
@@ -26,14 +26,15 @@ This page does not include anything listed in our game guides, as that's not its
 ### Windows feature alternatives
 - 🏆 **[Directory Opus](https://www.gpsoft.com.au/)** - File Explorer alternative / **Paid**
 - 🏆 **[Everything](https://www.voidtools.com/)** - File Search alternative
-- **[Explorer++](https://explorerplusplus.com/)** - File Explorer alternative / **Buggy** / Use Nightly
+- **[Explorer++](https://explorerplusplus.com/)** - File Explorer alternative / **Use Nightly**
 
 ***
 
 ### Remote Control
 ::: warning
-***NEVER*** install a remote control software if instructed by another user, especially if it's to "clean" your computer of viruses. The caller on the other end will just steal and delete all of your files.  
-You should only need a software of this kind if you want to access one of your devices from another device, or you need to perform tech tasks over the internet that need some help from a nerd.
+Never install a remote control software if asked by another user, especially if it's to "remove" a virus. The caller on the other end will just steal and delete all of your files.
+
+You should only install a remote control program if you need to access your computer from another device, or need to perform some technical help over the internet with a friend you trust.
 :::
 
 - ✨ **[Aspia](https://aspia.org/)** - Technical knowledge required / Port forwarding required
@@ -48,12 +49,12 @@ You should only need a software of this kind if you want to access one of your d
 Chromium based browsers, when paired with uBlock Origin, usually have poor adblocking due to the fact that ads cannot be blocked **before** the page loads. If you need serious adblocking, tend to misclick on pages a lot, or just generally hate ads, consider a Firefox/Gecko based option.
 :::
 
-- 🏆 **[Firefox](https://www.firefox.com)** - Gecko / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
-- ⭐ **[Floorp](https://floorp.app)** - Gecko / Mozilla Sync support / Use Floorp 11 for Themes / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
+- 🏆 **[Firefox](https://www.firefox.com)** - Gecko
+- ⭐ **[Floorp](https://floorp.app)** - Gecko / Use Floorp 11 for Themes
 - ✨ **[Supermium](https://github.com/win32ss/supermium)** - Chromium / Supports Windows 8.1 and earlier / Manifest V2 support
-- **[Brave](https://brave.com/)** - Chromium / Crypto and AI elements / **[Controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/)**
+- **[Brave](https://brave.com/)** - Chromium / Crypto & AI elements / **[Controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies/)**
 - **[Vivaldi](https://vivaldi.com/)** - Chromium / Poor built-in adblock
-- **[Zen Browser](https://zen-browser.app/)** - Gecko / **[Code Snippets](https://zen-browser.app/mods/)** / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
+- **[Zen Browser](https://zen-browser.app/)** - Gecko / **[Code Snippets](https://zen-browser.app/mods/)**
 
 ***
 
@@ -62,7 +63,7 @@ Chromium based browsers, when paired with uBlock Origin, usually have poor adblo
 All themes here require manual install that may be confusing to some users.
 :::
 
-- ✨ [Firefox GX](https://github.com/Godiesc/firefox-gx) - Read their homepage
+- ✨ [Firefox GX](https://github.com/Godiesc/firefox-gx) - Opera GX themed Firefox theme
 
 ***
 
@@ -70,7 +71,7 @@ All themes here require manual install that may be confusing to some users.
 > [!WARNING]
 > This section is mainly tailored to Firefox user.
 
-- 🏆 [uBlock Origin](https://ublockorigin.com/) - Ad and content blocking / **Performs worse on Chromium**
+- 🏆 [uBlock Origin](https://ublockorigin.com/) - Ad & content blocking / **Performs worse on Chromium**
 
 ***
 
@@ -92,8 +93,7 @@ All themes here require manual install that may be confusing to some users.
 
 ***
 
-#### Playing - Locally
-Tools to play music from local files. Great if you download your music.
+#### Playing - Local Players
 
 - 🏆 **[foobar2000](https://www.foobar2000.org/)** - Customizable / **[Plugins](https://www.foobar2000.org/components)** / **[Last.fm](https://www.foobar2000.org/components/view/foo_scrobble)**
 - **[AIMP](https://www.aimp.ru/)** - Customizable / **[Plugins & Themes](https://www.aimp.ru/?do=catalog)**
@@ -104,7 +104,7 @@ Tools to play music from local files. Great if you download your music.
 
 #### Tools
 
-- **[Music Presence](https://github.com/ungive/discord-music-presence)** - Discord rich presence / **[Read the docs](https://github.com/ungive/discord-music-presence)**
+- ⭐ **[Music Presence](https://github.com/ungive/discord-music-presence)** - Discord Rich Presence for various players / **[Read the docs](https://github.com/ungive/discord-music-presence)**
 
 ***
 
@@ -148,8 +148,8 @@ Content for Minecraft.
 This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
 :::
 
-- 🏆 **[Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)** - Based on MultiMC / Mod management / Lightweight / **[Ely.by & cracked fork](https://github.com/ElyPrismLauncher/ElyPrismLauncher)** / **[Play without an account](https://rentry.co/prism4free)**
-- ⭐ **[BetaCraft](https://betacraft.uk/)** - Old Minecraft / Beginner friendly
+- 🏆 **[Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)** - MultiMC-based launcher / **[Ely.by & cracked fork](https://github.com/ElyPrismLauncher/ElyPrismLauncher)** / **[Play without an account](https://rentry.co/prism4free)**
+- ⭐ **[BetaCraft](https://betacraft.uk/)** - Play old versions of Minecraft (pre-1.6) / Beginner friendly
 - ⭐ **[Modrinth App](https://modrinth.com/app)** - Mod management / Beginner friendly
 - ✨ **[ATLauncher](https://atlauncher.com)** - Mod management / Server management / Beginner friendly
 - ✨ **[Quantum Launcher](https://github.com/Mrmayman/quantumlauncher)** - Mod management / Lightweight
@@ -160,35 +160,34 @@ This page is a mirror of Toolkit's page, with only stuff I would personally reco
 
 ### Lists
 
-- ⭐ **[MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide)**
-- ⭐ **[TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods)** / **[Tools](https://github.com/TheUsefulLists/UsefulMinecraft)**
+- ⭐ **[MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide)** - Minimalist take of TheUsefulLists
+- ⭐ **[TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods)** - Community maintaned list of Minecraft optimizations / **[Minecraft Tools](https://github.com/TheUsefulLists/UsefulMinecraft)**
 - **[Legacy Fabric Mod Compatibility List](https://legacyfabric.net/mods.html)**
 - **[List of "Essential" 1.7.10 Mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c)**
 
 ***
 
 ### Software
-- **[MCreate](https://mcreator.net/)** - Beginner mod creator
-- **[NBT Studio](https://github.com/tryashtar/nbt-studio/)** - NBT reader
+- **[MCreate](https://mcreator.net/)** - Mod creator for beginners
+- **[NBT Studio](https://github.com/tryashtar/nbt-studio/)** - NBT Reader
 
 ***
 
 ### Websites
 
 - 🏆 **[NameMC](https://namemc.com/)** - Servers, skins, capes & usernames
-- 🏆 **[Omniarchive](https://omniarchive.uk/)** - Minecraft version archive
-- ⭐ **[VanillaTweaks](https://vanillatweaks.net/)** - Resource packs / Data packs
-- **[Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/)** - JVM Flags / Potentially dangerous
+- 🏆 **[Omniarchive](https://omniarchive.uk/)** - Minecraft Version archive
+- ⭐ **[VanillaTweaks](https://vanillatweaks.net/)** - Resource Packs / Datapacks
+- **[Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/)** - JVM Flags
 - **[Ely.by](https://ely.by)** - Alternative skin system
 - **[Essential Alternatives](https://notessential.blurry.gay/)**
 - **[Minecraft MOTD Color Codes](https://htmlcolorcodes.com/minecraft-color-codes/)**
-- **[PCGamingWiki's page on Minecraft](https://www.pcgamingwiki.com/wiki/Minecraft:_Java_Edition)** - General information / Not recommended for modding advice
+- **[PCGamingWiki's page on Minecraft](https://www.pcgamingwiki.com/wiki/Minecraft:_Java_Edition)** - General information / **Not recommended for modding advice**
 - **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** / Shader resources
 
 ***
 
 ## General guides
-Tutorials and walkthroughs on how to do cool things.
 
 - **[Connecting NeoCities to your Discord Profile](https://gist.github.com/hf02/1570e009bd337bc09db6f3e3c29938ca)**
 
