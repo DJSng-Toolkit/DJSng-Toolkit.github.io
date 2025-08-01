@@ -23,8 +23,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Credits', link: '/contributors.md' },
-      { text: 'Blog', link: 'https://djsng.bearblog.dev/' },
-	    { text: 'Website', link: 'https://djsng.neocities.org/' }
+      { text: 'Creator\' Blog', link: 'https://djsng.bearblog.dev/' }
     ],
 
     sidebar: [
