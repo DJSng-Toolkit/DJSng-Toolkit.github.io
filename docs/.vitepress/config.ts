@@ -1,5 +1,5 @@
-import footnote from 'markdown-it-footnote'
 import { defineConfig } from 'vitepress'
+import footnote from 'markdown-it-footnote'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
