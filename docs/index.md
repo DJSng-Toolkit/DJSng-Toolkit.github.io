@@ -16,6 +16,9 @@ hero:
       link: /home
 
 features:
+  - title: Jericho's Library
+    link: /library
+    details: General resources that's not tied to any one specific game.
   - title: Minecraft
     link: /games/mc/index
     details: Resources, websites and optimizations for a popular block game.
