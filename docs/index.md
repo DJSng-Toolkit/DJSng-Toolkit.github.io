@@ -7,6 +7,9 @@ description: DJSng's personal list of resources, mods and guides.
 hero:
   name: "DJSng's Toolkit"
   text: "Free resources, by a casual."
+  announcement:
+    title: 8/1/25 - New docs!
+    link: /posts/aug-1-25
   image:
     src: https://files.catbox.moe/kwrhix.png
     alt: DJSng's Toolkit Logo
