@@ -24,7 +24,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 ## Online
 ### Extensions
 | Name | Description | Platform | Notes |
-| --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: |
 | 🏆 BTRoblox | BTRoblox, or Better Roblox, is an extension that aims to enhance Roblox's website by modifying the look and adding to the core website functionality by adding a plethora of new features. | [Chromium](https://chromewebstore.google.com/detail/btroblox-making-roblox-be/hbkpclpemjeibhioopcebchdmohaieln), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/btroblox/) | **CURRENTLY BROKEN**. Required by a good portion of "Old ROBLOX" themes. A great starting point. |
 | [✨ RoGold](https://rogold.live/) | The cross-platform extension that allows you to shape the way you play and develop on Roblox and now Roblox Studio. | [Chromium](https://chromewebstore.google.com/detail/rogold-level-up-roblox/mafcicncghogpdpaieifglifaagndbni?hl=en), [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/rogold/), [Windows](https://rogold.live/downloads), [iOS Safari (paid, $1)](https://apps.apple.com/us/app/rogold/id1618599725),  [Mac](https://rogold.live/downloads) | They have a new Desktop app on their homepage, but the original extension still works fine. |
 | [✨ RoSeal](https://www.roseal.live/) | Improve your Roblox website experience, seals included! | [Chromium](https://chromewebstore.google.com/detail/roseal-augmented-roblox-e/hfjngafpndganmdggnapblamgbfjhnof), [Firefox](https://addons.mozilla.org/en-CA/firefox/addon/roseal/) | Might cause incompatibilities with other websites |
@@ -33,7 +33,7 @@ Mods are tested to the best of my ability to ensure that they are not malicious 
 
 ### Websites
 | Name | Description | Notes |
-| --- | :---: | :---: | :---: |
+| --- | :---: | :---: |
 | [fastflags.space](https://fastflags.space/) | fastflags.space is a community-driven resource dedicated to cataloging and sharing information about FastFlags configuration. | **Has very dangerous flags** that can get you **banned**. Be careful. A lot of flags may be snake oil and will not actually improve performance. |
 | [ingame.clothing](https://ingame.clothing/) | Clothing Preview for ROBLOX | Tool to view how your clothes look on various avatars. |
 
@@ -56,7 +56,7 @@ All revivals here are mainly launchers. Due to the complications of Website laun
 Be careful what you install.
 
 | Name | Description | Client Years | Notes |
-| --- | :---: | :---: | :---: | :---: |
+| --- | :---: | :---: | :---: |
 | [Novetus](https://bitl.itch.io/novetus) | Novetus is a free and open source multi-version ROBLOX client launcher based on RBXLegacy built to allow the user to run LAN and Internet servers.  2007, 2008, 2009, 2010, 2011 | All maps included are localized and do not require internet. Custom maps will not load assets, and there is no current known way to make them load assets. |
 | [OnlyRetroROBLOXHere](https://onlyretrorobloxhere.itch.io/orrh) | Only Retro Roblox Here, or ORRH for short, provides a decentralized experience for legacy Roblox versions from Early 2007 to Late 2013. | 2007, 2008, 2009, 2010, 2011, 2012, 2013 | You must follow [this guide](https://docs.google.com/document/d/1OMIBqNByCIjMw5h2s-JnG8AK-MjKfRhuCTQ3ki8tSUk) to fix custom clothing. **Requires knowledge on how to read and grab browser cookes**, do not share to anyone. |
 
