@@ -5,8 +5,14 @@ I'd like to very quickly take the time to thank everybody who had an involvement
 DJSng's Toolkit features work originally developed by...
 
 - [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods)  
-    - Toolkit uses some mod listings and modified tables provided by TUL.
     - Licensed under MIT License.
+    - Toolkit uses some mod listings and modified tables provided by TUL.
+- [Music Presence](https://github.com/ungive/discord-music-presence)
+    - The documentation has no applicable license.
+    - Toolkit uses a modified version of Music Presence's "Media" section
+- [FMHY](https://fmhy.net)
+    - Unknown license
+    - Toolkit uses FMHY's list format for some resource pages.
 
 ## Contributors
 
