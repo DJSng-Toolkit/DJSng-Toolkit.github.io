@@ -47,6 +47,13 @@ export default defineConfig({
         items: [
           { text: 'Jericho Library', link: '/library.md' }
         ]
+      },
+      {
+        text: 'Other Projects',
+        items: [
+          { text: 'DJSng\'s Tips', link: 'https://github.com/DJSng-Toolkit/Tips' },
+          { text: 'djsng.neocities.org', link: 'https://djsng.neocities.org/' }
+        ]
       }
     ],
 
