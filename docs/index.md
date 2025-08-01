@@ -36,10 +36,5 @@ features:
     details: Tools, mods and notes for a chatroom fishing game.
     icon:
        src: '/fish.jpg'
-  - title: osu!
-    link: /games/osu
-    details: Tools, mods and notes for a weeb rhythm game
-    icon:
-       src: '/osu.png'
 ---
 
