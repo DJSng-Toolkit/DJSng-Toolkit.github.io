@@ -1,7 +1,13 @@
+import footnote from 'markdown-it-footnote'
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+	markdown: {
+    config: (md) => {
+      md.use(footnote)
+    }
+  }
   title: "DJSng's Toolkit",
   description: "A bundle of resources curated by DJSng.",
   themeConfig: {
