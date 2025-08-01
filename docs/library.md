@@ -16,22 +16,17 @@ This page does not include anything listed in our game guides, as that's not its
 | ⭐ | "Best of" resource |
 | ✨ | Unique resource |
 
-***
-
-## Other resources
+## Other resource pages
 - **[🏆 FREEMEDIAHECKYEAH](https://fmhy.net/)** - General Resources / Piracy Resources
 - **[Ivyswell's Tavern - Resources](https://ivyswell-tavern.neocities.org/resources)** - General Resources
 
-***
-
-## Windows feature alternatives
+## Technology - Software
+### Windows feature alternatives
 - **[🏆 Directory Opus](https://www.gpsoft.com.au/)** - File Explorer alternative / **Paid**
 - **[🏆 Everything](https://www.voidtools.com/)** - File Search alternative
 - **[Explorer++](https://explorerplusplus.com/)** - File Explorer alternative / **Buggy** / Use Nightly
 
-***
-
-## Remote Control Software
+## Remote Control
 ::: warning
 ***NEVER*** install a remote control software if instructed by another user, especially if it's to "clean" your computer of viruses. The caller on the other end will just steal and delete all of your files.  
 You should only need a software of this kind if you want to access one of your devices from another device, or you need to perform tech tasks over the internet that need some help from a nerd.
@@ -40,9 +35,9 @@ You should only need a software of this kind if you want to access one of your d
 - **[✨ Aspia](https://aspia.org/)** - Technical knowledge required / Port forwarding required
 - **[RustDesk](https://rustdesk.com/)** - **Some bugs**
 
-***
-
-## Internet Browsers
+## Technology - Internet
+### Web Browsing
+#### Browsers
 
 - **[🏆 Firefox](https://www.firefox.com)** - Gecko / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
 - **[⭐ Floorp](https://floorp.app)** - Gecko / Mozilla Sync support / Use Floorp 11 for Themes / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
@@ -51,37 +46,32 @@ You should only need a software of this kind if you want to access one of your d
 - **[Vivaldi](https://vivaldi.com/)** - Chromium / Poor adblocking / Poor built-in adblock
 - **[Zen Browser](https://zen-browser.app/)** - Gecko / **[Code Snippets](https://zen-browser.app/mods/)** / Install **[uBlock Origin](https://github.com/gorhill/uBlock)**
 
-***
-
-## Firefox Themes
+#### Firefox Themes
 ::: warning
 All themes here require manual install that may be confusing to some users.
 :::
 
 - [✨ Firefox GX](https://github.com/Godiesc/firefox-gx) - Read their homepage
 
-***
-
-## Browser Extensions (Firefox)
+#### Extensions
+> [!WARNING]
+> This section is mainly tailored to Firefox user.
 
 - [🏆 uBlock Origin](https://ublockorigin.com/) - Ad and content blocking / **Performs worse on Chromium**
 
-***
-
-## Other Cool Websites
-
+#### Tools for the Web
 - [GitHub Wiki TOC Generator](https://ecotrust-canada.github.io/markdown-toc/)
+
+#### Other Cool Websites
+
 - [WinAmp Skin Museum](https://skins.webamp.org/) - Uses Webamp
 
-***
-
-## Music Downloading
+### Music
+#### Downloading
 
 - [⭐ Nicotine+](https://nicotine-plus.org/) - Soulseek
 
-***
-
-## Local Music Players
+#### Playing - Locally
 Tools to play music from local files. Great if you download your music.
 
 - **[🏆 foobar2000](https://www.foobar2000.org/)** - Customizable / **[Plugins](https://www.foobar2000.org/components)** / **[Last.fm](https://www.foobar2000.org/components/view/foo_scrobble)**
@@ -89,40 +79,39 @@ Tools to play music from local files. Great if you download your music.
 - **[MusicBee](https://www.getmusicbee.com/)** - **[Plugins](https://www.getmusicbee.com/addons)**
 - **[WACUP](https://getwacup.com/)** - Winamp based
 
-***
-
-## Music Tools
+#### Tools
 
 - **[Music Presence](https://github.com/ungive/discord-music-presence)** - Discord rich presence / **[Read the docs](https://github.com/ungive/discord-music-presence)**
 
-***
 
-## Gaming Resources & Guides
+# Gaming - General
+General gaming resources and guides that can apply to a variety of games.
+
+### Resources & Guides
 
 - **[✨ PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)** - Guides / Resources / Bug fixes
 
-***
-
-## Browser Games
+### Play on the Web
 
 -  **[Pac Man](https://masonicgit.github.io/pacman/)**
 
-***
-
-## Game Clones
+### Clones
 
 - **[Luanti](https://www.luanti.org/)** - Minecraft
 
-***
-
-## Flash Games
+### Flash
 
 - **[🏆 Flashpoint Archive](https://flashpointarchive.org/)** - Non-Steam / Play-as-you-go (with Infinity)
 - **[Ninia Kiwi Archive](https://ninjakiwi.com/archive)** - Steam / Non-Steam
 
-***
+### More Games
+A personal highlight of games I recommend.
 
-## Minecraft Launchers
+
+## Gaming - Minecraft
+Content for Minecraft.
+
+### Launchers
 ::: note
 This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
 :::
@@ -135,24 +124,18 @@ This page is a mirror of Toolkit's page, with only stuff I would personally reco
 - **[Bedrock Launcher](https://bedrocklauncher.github.io/)**
 - **[MultiMC](https://multimc.org/)**
 
-***
-
-## Minecraft Mod Lists
+### Lists
 
 - **[⭐ MC-Optimization-Guide](https://github.com/Radk6/MC-Optimization-Guide)**
 - **[⭐ TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods)** / **[Tools](https://github.com/TheUsefulLists/UsefulMinecraft)**
 - **[Legacy Fabric Mod Compatibility List](https://legacyfabric.net/mods.html)**
 - **[List of "Essential" 1.7.10 Mods](https://gist.github.com/makamys/7cb74cd71d93a4332d2891db2624e17c)**
 
-***
-
-## Minecraft Software
+### Software
 - **[MCreate](https://mcreator.net/)** - Beginner mod creator
 - **[NBT Studio](https://github.com/tryashtar/nbt-studio/)** - NBT reader
 
-***
-
-## Minecraft Websites
+### Websites
 
 - **[🏆 NameMC](https://namemc.com/)** - Servers, skins, capes & usernames
 - **[🏆 Omniarchive](https://omniarchive.uk/)** - Minecraft version archive
@@ -164,28 +147,20 @@ This page is a mirror of Toolkit's page, with only stuff I would personally reco
 - **[PCGamingWiki's page on Minecraft](https://www.pcgamingwiki.com/wiki/Minecraft:_Java_Edition)** - General information / Not recommended for modding advice
 - **[ShaderLABS](https://shaderlabs.org/wiki/Main_Page)** / Shader resources
 
-***
-
-## Guides
+## General guides
 Tutorials and walkthroughs on how to do cool things.
 
 - **[Connecting NeoCities to your Discord Profile](https://gist.github.com/hf02/1570e009bd337bc09db6f3e3c29938ca)**
 
-***
-
-## Software you should avoid
+## Avoid
 Also check in with [FMHY](https://fmhy.net/unsafesites), which covers more software I haven't included.
 
 ### Software - Remote Control
 
 - **[TeamViewer](https://www.teamviewer.com/en-ca/)** - Random disconnects / AI integration / File transfer is paid / Poor mobile support
 
-***
-
 ## Software - Music
 - **[Winamp](https://winamp.com/)** - Not run by the original developers, use WACUP / NFT & AI integration / Legacy builds are buggy
-
-***
 
 ## Software - Games
 - **[TLauncher](https://tlauncher.org/)** - Not to be confused with [TLauncher Legacy](https://archive.org/details/tl-legacy-installer-legacy_20240328) / Spyware
