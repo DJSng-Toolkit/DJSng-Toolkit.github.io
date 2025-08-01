@@ -148,7 +148,7 @@ Content for Minecraft.
 This page is a mirror of Toolkit's page, with only stuff I would personally recommend.
 :::
 
-- **[🏆 Prism Launcher]**(https://github.com/PrismLauncher/PrismLauncher)** - Based on MultiMC / Mod management / Lightweight / **[Ely.by & cracked fork](https://github.com/ElyPrismLauncher/ElyPrismLauncher)** / **[Play without an account](https://rentry.co/prism4free)**
+- **[🏆 Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)** - Based on MultiMC / Mod management / Lightweight / **[Ely.by & cracked fork](https://github.com/ElyPrismLauncher/ElyPrismLauncher)** / **[Play without an account](https://rentry.co/prism4free)**
 - **[⭐ BetaCraft](https://betacraft.uk/)** - Old Minecraft / Beginner friendly
 - **[⭐ Modrinth App](https://modrinth.com/app)** - Mod management / Beginner friendly
 - **[✨ ATLauncher](https://atlauncher.com)** - Mod management / Server management / Beginner friendly
