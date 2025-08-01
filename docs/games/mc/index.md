@@ -1,11 +1,15 @@
-::: warning
-Toolkit is constantly being updated and may contain documentation that is inaccurate, untested, or otherwise irrelevant. YMMV.  
-I have attempted to label mods that may do nothing for users best I can. You should still benchmark your shit in between changes.
-:::
+---
+title: Minecraft
+---
 
 A maximalist approach on [TheUsefulLists](https://github.com/TheUsefulLists/UsefulMods) with a bunch of tools, mods, websites and other utilities, all personally curated with better compatibility notes, and specific sub-version mod configs. **This is not a replacement for existing lists**, you should still turn to other lists to back up sources.  
 
 Toolkit is mainly based on personal experience.
+
+::: warning
+Toolkit is constantly being updated and may contain documentation that is inaccurate, untested, or otherwise irrelevant. YMMV.  
+I have attempted to label mods that may do nothing for users best I can. You should still benchmark your shit in between changes.
+:::
 
 ## Why?
 A lot of lists are very similiar nowadays, it can make sense why it can feel like just *another* list. There's many choices, with TheUsefulLists being a general "go-to" and a lot of TUL inspired lists covering their tracks.  

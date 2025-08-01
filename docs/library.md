@@ -1,3 +1,7 @@
+---
+title: Jericho's Library
+---
+
 # Jericho's Library (by DJSng)
 ### A general resources page of various topics.
 Jericho's Library is the new, permanent home of my resources page, which was present on my site (and prior, on my SpaceHey) for approximately two years. I have decided to move it under a GitHub organization like the rest of my Toolkit related projects, where it can happily stay.  
